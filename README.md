@@ -1,3 +1,6 @@
+please enter the input in search to give results until loader component runs (imdb api from rapidApi)
+
+
 Create a IMDB.com like website with basic CRUD and movie listing using Node.js. We 
 would like to have the following entities in the application. Using IMDB API is a bonus.
 Relationships
