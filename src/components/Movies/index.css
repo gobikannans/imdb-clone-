@@ -1,0 +1,29 @@
+.movie-list-item{
+    background-color: rgb(42, 41, 41);
+    width: 30%;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    padding: 20px;
+    padding-bottom: 0px;
+}
+
+.movie-genre{
+    color: #ffffff;
+    font-size:20px ;
+    margin-bottom:10px ;
+}
+
+.movie-bio{
+    color: #ffffff;
+    font-size:20px ;
+    margin-top:10px ;
+}
+
+.movie-img{
+    width: 55%;
+}
+
