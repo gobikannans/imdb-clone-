@@ -27,3 +27,7 @@ Bonus
 • IMDB API.
 • Token based authentication.
 • Not borrowing many Node Modules and React Components
+![Screenshot (36)](https://user-images.githubusercontent.com/113693850/219106182-af8dfdeb-1539-4278-a337-a2392331be2f.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/113693850/219106191-54336683-35a4-40b5-bc43-d8a077bdab56.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/113693850/219106194-4c03b5ed-1cee-494a-94d9-8d6e04352bc7.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/113693850/219106198-224c9e18-46a8-4ada-b03f-730e31f28bc1.png)
